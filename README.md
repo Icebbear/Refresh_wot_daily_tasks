@@ -2,8 +2,8 @@
 用于自动刷新坦克世界的每日任务
 
 1、安装依赖：
-pip install pyautogui
-pip install deps/opencv_python-3.3.0.10-cp36-cp36m-win_amd64.whl
+pip install pyautogui deps/opencv_python-3.3.0.10-cp36-cp36m-win_amd64.whl
+
 
 python版本必须为3.6！
 
